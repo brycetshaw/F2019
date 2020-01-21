@@ -1,0 +1,175 @@
+	firstname	lastname	title	faculty	email	homepage	Phone Number	Office
+0	Norm	Bartley	Senior Instructor	electrical-and-computer-engineering	nbartley@ucalgary.ca	https://schulich.ucalgary.ca/contacts/norm-bartley	403.220.5060	ICT 306
+1	Laleh	Behjat	Professor	electrical-and-computer-engineering	laleh@ucalgary.ca	https://schulich.ucalgary.ca/contacts/laleh-behjat	403.220.8967	EEEL 445A
+2	Leo	Belostotski	Professor	electrical-and-computer-engineering	lbelosto@ucalgary.ca	https://schulich.ucalgary.ca/contacts/leo-belostotski	403.210.5426	
+3	Laura	Curiel	Assistant Professor	electrical-and-computer-engineering	laura.curiel@ucalgary.ca	https://schulich.ucalgary.ca/contacts/laura-curiel	403.220.4390	ICT 346
+4	Colin	Dalton	Assistant Professor	electrical-and-computer-engineering	cdalton@ucalgary.ca	https://schulich.ucalgary.ca/contacts/colin-dalton	403.210.8464	ICT 440
+5	Vassil	Dimitrov	Associate Professor	electrical-and-computer-engineering	vdimitro@ucalgary.ca	https://schulich.ucalgary.ca/contacts/vassil-dimitrov	403.210.5423	ICT 443
+6	Abraham	Fapojuwo	Professor, Associate Head (Graduate Studies)	electrical-and-computer-engineering	fapojuwo@ucalgary.ca	https://schulich.ucalgary.ca/contacts/abraham-fapojuwo	403.220.8524	ICT 310
+7	Behrouz	Far	Professor	electrical-and-computer-engineering	far@ucalgary.ca	https://schulich.ucalgary.ca/contacts/behrouz-far	403.210.5411	ICT 541
+8	Elise	Fear	Professor	electrical-and-computer-engineering	fear@ucalgary.ca	https://schulich.ucalgary.ca/contacts/elise-fear	403.210.5413	ICT 353
+9	Fadhel	Ghannouchi	Professor	electrical-and-computer-engineering	fghannou@ucalgary.ca	https://schulich.ucalgary.ca/contacts/fadhel-ghannouchi	403.220.5807	ICT 336
+10	Anis	Haque	Teaching Professor	electrical-and-computer-engineering	anis@ucalgary.ca	https://schulich.ucalgary.ca/contacts/anis-haque	403.220.8606	
+11	Mohamed	Helaoui	Assistant Professor	electrical-and-computer-engineering	mhelaoui@ucalgary.ca	https://schulich.ucalgary.ca/contacts/mohamed-helaoui	403.210.5404	ICT 340
+12	Hadi	Hemmati	Assistant Professor	electrical-and-computer-engineering	hadi.hemmati@ucalgary.ca	https://schulich.ucalgary.ca/contacts/hadi-hemmati	403.210.6717	ICT 309
+13	Yaoping	Hu	Professor	electrical-and-computer-engineering	huy@ucalgary.ca	https://schulich.ucalgary.ca/contacts/yaoping-hu	403.220.4167	ICT 543
+14	Seyed	Pouyan (Yani) Jazayeri	Senior Instructor	electrical-and-computer-engineering	spjazaye@ucalgary.ca	https://schulich.ucalgary.ca/contacts/seyed-pouyan-yani-jazayeri	403.973.3862	ICT 344
+15	Andy	Knight	Professor, Interim Department Head	electrical-and-computer-engineering	andy.knight@ucalgary.ca	https://schulich.ucalgary.ca/contacts/andy-knight	403.220.6282	ICT 454
+16	Diwakar	Krishnamurthy	Associate Professor	electrical-and-computer-engineering	dkrishna@ucalgary.ca	https://schulich.ucalgary.ca/contacts/diwakar-krishnamurthy	403.220.8129	ICT 535
+17	Henry	Leung	Professor	electrical-and-computer-engineering	leungh@ucalgary.ca	https://schulich.ucalgary.ca/contacts/henry-leung	403.220.4875	ICT 451
+18	Chris	Macnab	Associate Professor	electrical-and-computer-engineering	cmacnab@ucalgary.ca	https://schulich.ucalgary.ca/contacts/chris-macnab	403.220.4877	ICT 450
+19	Brent	Maundy	Professor	electrical-and-computer-engineering	bmaundy@ucalgary.ca	https://schulich.ucalgary.ca/contacts/brent-maundy	403.220.6177	ICT 442
+20	Geoffrey	Messier	Professor	electrical-and-computer-engineering	gmessier@ucalgary.ca	https://schulich.ucalgary.ca/contacts/geoffrey-messier		ICT 308
+21	Martin	Mintchev	Professor	electrical-and-computer-engineering	mintchev@ucalgary.ca	https://schulich.ucalgary.ca/contacts/martin-p-mintchev	403.220.5309	EN A121A
+22	Mohammad	Moshirpour	Instructor	electrical-and-computer-engineering	mmoshirp@ucalgary.ca	https://schulich.ucalgary.ca/contacts/mohammad-moshirpour	403.220.6864	ICT 345
+23	Mahmood	Moussavi	Teaching Professor	electrical-and-computer-engineering	moussam@ucalgary.ca	https://schulich.ucalgary.ca/contacts/mahmood-moussavi	403.220.6231	ICT 537
+24	Kartikeya	Murari	Associate Professor	electrical-and-computer-engineering	kmurari@ucalgary.ca	https://schulich.ucalgary.ca/contacts/kartikeya-murari		ICT 445
+25	John	Nielson	Associate Professor, Associate Head (Undergraduate Studies)	electrical-and-computer-engineering	nielsenj@ucalgary.ca	https://schulich.ucalgary.ca/contacts/john-nielsen	403.210.9704	ICT 311
+26	Steve	Norman	Senior Instructor	electrical-and-computer-engineering	norman@ucalgary.ca	https://schulich.ucalgary.ca/contacts/steve-norman	403.220.8642	ICT 411
+27	Ed	Nowicki	Associate Professor, Interim Director (CEERE)	electrical-and-computer-engineering	enowicki@ucalgary.ca	https://schulich.ucalgary.ca/contacts/ed-nowicki	403.220.5006	EN A206F
+28	Anders	Nygren	Associate Professor	electrical-and-computer-engineering	nygren@ucalgary.ca	https://schulich.ucalgary.ca/contacts/anders-nygren	403.220.4192	EN C110
+29	Michal	Okoniewski	Professor	electrical-and-computer-engineering	okoniews@ucalgary.ca	https://schulich.ucalgary.ca/contacts/michal-okoniewski		ICT 354
+30	Denis	Onen	Instructor	electrical-and-computer-engineering	donen@ucalgary.ca	https://schulich.ucalgary.ca/contacts/denis-onen	403.220.4478	ICT 341
+31	Majid	Pahlevani	Assistant Professor	electrical-and-computer-engineering	majid.pahlevani@ucalgary.ca	https://schulich.ucalgary.ca/contacts/majid-pahlevani	403.220.6865	ICT 452
+32	Mike	Potter	Associate Professor	electrical-and-computer-engineering	mpotter@ucalgary.ca	https://schulich.ucalgary.ca/contacts/mike-potter	403.220.4129	ICT 355
+33	William	D. (Bill) Rosehart	Professor, Dean	electrical-and-computer-engineering	dean@ucalgary.ca			
+34	Guenther	Ruhe	Professor	electrical-and-computer-engineering	ruhe@ucalgary.ca	https://schulich.ucalgary.ca/contacts/guenther-ruhe	403.220.7692	ICT 545
+35	Abu	Sesay	Professor	electrical-and-computer-engineering	sesay@ucalgary.ca	https://schulich.ucalgary.ca/contacts/abu-sesay	403.220.6163	ICT 314
+36	Mike	Smith	Professor	electrical-and-computer-engineering	mike.smith@ucalgary.ca	https://schulich.ucalgary.ca/contacts/michael-smith	403.220.6142	ICT 533
+37	Rushi	Vyas	Assistant Professor	electrical-and-computer-engineering	rushi.vyas@ucalgary.ca	https://schulich.ucalgary.ca/contacts/rushi-vyas	403.220.5002	ICT 348
+38	Yingxu	Wang	Professor	electrical-and-computer-engineering	yingxu@ucalgary.ca	https://schulich.ucalgary.ca/contacts/yingxu-wang	403.220.6141	ICT 539
+39	David	Westwick	Professor	electrical-and-computer-engineering	dwestwic@ucalgary.ca	https://schulich.ucalgary.ca/contacts/david-westwick	403.220.5806	ICT 441
+40	Orly	Yadid-Pecht	Professor	electrical-and-computer-engineering	orly.yadid-pecht@ucalgary.ca	https://schulich.ucalgary.ca/contacts/orly-yadid-pecht	403.220.2516	ICT 436
+41	Svetlana	Yanushkevich	Professor	electrical-and-computer-engineering	syanshk@ucalgary.ca	https://schulich.ucalgary.ca/contacts/svetlana-yanushkevich		ICT 343
+42	Hamidreza	Zareipour	Professor	electrical-and-computer-engineering	h.zareipour@ucalgary.ca	https://schulich.ucalgary.ca/contacts/hamidreza-zareipour	403.210.9516	ICT 444
+43	Jalal	Abedi	Professor	chemical-and-petroleum-engineering	jabedi@ucalgary.ca	https://schulich.ucalgary.ca/contacts/jalal-abedi	403.220.5594	CCIT 224
+44	Roberto	Aguilera	Professor	chemical-and-petroleum-engineering	raguiler@ucalgary.ca	https://schulich.ucalgary.ca/contacts/roberto-aguilera	403.210.7943	CCIT 220
+45	Jalel	Azaiez	Professor	chemical-and-petroleum-engineering	azaiez@ucalgary.ca	https://schulich.ucalgary.ca/contacts/jalel-azaiez	403.220.7526	EN D204B
+46	Anne	Benneker	Assistant Professor	chemical-and-petroleum-engineering	anne.benneker@ucalgary.ca	https://schulich.ucalgary.ca/contacts/anne-benneker	403.220.3766	URC 2E-214
+47	Joule	Bergerson	Associate Professor	chemical-and-petroleum-engineering	jbergers@ucalgary.ca	https://schulich.ucalgary.ca/contacts/joule-bergerson	403.220.5265	EEEL 461B
+48	Steven	Bryant	Professor	chemical-and-petroleum-engineering	steven.bryant@ucalgary.ca	https://schulich.ucalgary.ca/contacts/steven-bryant	403.220.6554	EEEL 467E
+49	Zhangxing	(John) Chen	[]	chemical-and-petroleum-engineering	zhachen@ucalgary.ca	https://schulich.ucalgary.ca/contacts/zhangxing-john-chen	403.220.7825	CCIT 210
+50	Shengnan	(Nancy) Chen	[]	chemical-and-petroleum-engineering	snchen@ucalgary.ca	https://schulich.ucalgary.ca/contacts/shengnan-nancy-chen	403.220.2040	EN B204C
+51	Matthew	Clarke	Associate Professor, Associate Head (Graduate Studies)	chemical-and-petroleum-engineering	maclarke@ucalgary.ca	https://schulich.ucalgary.ca/contacts/matthew-clarke	403.220.7341	EN D204H
+52	Mingzhe	Dong	Professor	chemical-and-petroleum-engineering	mtdong@ucalgary.ca	https://schulich.ucalgary.ca/contacts/mingzhe-dong	403.210.7642	EEEL 415B
+53	Michael	Foley	Senior Instructor	chemical-and-petroleum-engineering	mwfoley@ucalgary.ca	https://schulich.ucalgary.ca/contacts/michael-foley	403.210.6662	EN B204K
+54	Ian	Donald Gates	Professor	chemical-and-petroleum-engineering	ian.gates@ucalgary.ca	https://schulich.ucalgary.ca/contacts/ian-donald-gates	403.220.5752	CCIT 322
+55	Hassan	Hassanzadeh	Associate Professor	chemical-and-petroleum-engineering	hhassanz@ucalgary.ca	https://schulich.ucalgary.ca/contacts/hassan-hassanzadeh	403.210.6645	EEEL 409B
+56	Hossein	Hejazi	Associate Professor	chemical-and-petroleum-engineering	shhejazi@ucalgary.ca	https://schulich.ucalgary.ca/contacts/hossein-hejazi	403.220.5160	ENB 204F
+57	Josephine	Mary Hill	Professor	chemical-and-petroleum-engineering	jhill@ucalgary.ca	https://schulich.ucalgary.ca/contacts/josephine-mary-hill	403.210.9488	EN B204H
+58	Jinguang	Hu	Assistant Professor	chemical-and-petroleum-engineering	jinguang.hu@ucalgary.ca	https://schulich.ucalgary.ca/contacts/jinguang-hu	403.220.3990	EEEL 457A
+59	Maen	Husein	Professor	chemical-and-petroleum-engineering	mhusein@ucalgary.ca	https://schulich.ucalgary.ca/contacts/maen-husein	403.220.6691	EEEL 417A
+60	Martin	Jasso	Assistant Professor	chemical-and-petroleum-engineering	mjasso@ucalgary.ca	https://schulich.ucalgary.ca/contacts/martin-jasso	403.220.4734	EN F278
+61	Ayodeji	Aderopo Jeje	Professor	chemical-and-petroleum-engineering	jeje@ucalgary.ca	https://schulich.ucalgary.ca/contacts/ayodeji-aderopo-jeje	403.220.5753	CCIT 316
+62	Kimberly	Johnston	[]	chemical-and-petroleum-engineering	johnstka@ucalgary.ca	https://schulich.ucalgary.ca/contacts/kimberly-johnston	403.210.7305	ENC 106
+63	Michael	Kallos	Professor	chemical-and-petroleum-engineering	mskallos@ucalgary.ca	https://schulich.ucalgary.ca/contacts/michael-kallos	403.220.7447	CCIT 116
+64	Apostolos	Kantzas	Professor	chemical-and-petroleum-engineering	akantzas@ucalgary.ca	https://schulich.ucalgary.ca/contacts/apostolos-kantzas	403.220.8907	ES 902A
+65	Kunal	Karan	Professor	chemical-and-petroleum-engineering	kkaran@ucalgary.ca	https://schulich.ucalgary.ca/contacts/kunal-karan	403.220.5754	EEEL 453A
+66	Md	Kibria	Assistant Professor	chemical-and-petroleum-engineering	md.kibria@ucalgary.ca	https://schulich.ucalgary.ca/contacts/md-kibria	403.338.3320	3535ResearchRdNW%2CCalgary%2CABT2L2K8 URC-2E-215
+67	Qingye	Lu	Assistant Professor	chemical-and-petroleum-engineering	qingye.lu@ucalgary.ca	https://schulich.ucalgary.ca/contacts/qingye-gemma-lu	403.210.7645	EN D204A
+68	Nader	Mahinpey	Professor	chemical-and-petroleum-engineering	nader.mahinpey@ucalgary.ca	https://schulich.ucalgary.ca/contacts/nader-mahinpey	403.210.6503	EEEL 417B
+69	Brij	Maini	Professor	chemical-and-petroleum-engineering	bmaini@ucalgary.ca	https://schulich.ucalgary.ca/contacts/brij-maini	403.220.8777	EN D204G
+70	Sean	McCoy	Assistant Professor	chemical-and-petroleum-engineering	sean.mccoy@ucalgary.ca	https://schulich.ucalgary.cahttps://schulich.ucalgary.ca/contacts/sean-mccoy		
+71	Anil	Kumar Mehrotra	Professor	chemical-and-petroleum-engineering	mehrotra@ucalgary.ca	https://schulich.ucalgary.ca/contacts/anil-k-mehrotra	403.220.7406	EN D202B
+72	Sudarshan	Mehta	Professor	chemical-and-petroleum-engineering	mehta@ucalgary.ca	https://schulich.ucalgary.ca/contacts/sudarshan-mehta	403.220.4804	CCIT 104
+73	Robert	Gordon Moore	Professor	chemical-and-petroleum-engineering	moore@ucalgary.ca	https://schulich.ucalgary.ca/contacts/robert-gordon-moore	403.220.7217	CCIT 106
+74	Nashaat	Nassar	Associate Professor	chemical-and-petroleum-engineering	nassar@ucalgary.ca	https://schulich.ucalgary.ca/contacts/nashaat-nassar	403.210.9772	CCIT 120
+75	Giovanniantonio	Natale	Assistant Professor	chemical-and-petroleum-engineering	gnatale@ucalgary.ca	https://schulich.ucalgary.ca/contacts/giovanniantonio-natale	403.220.5980	EN D204B
+76	Pedro	Pereira Almao	Professor	chemical-and-petroleum-engineering	ppereira@ucalgary.ca	https://schulich.ucalgary.ca/contacts/pedro-pereira-almao	403.220.4799	CCIT 118
+77	Tatyana	Plaksina	Assistant Professor	chemical-and-petroleum-engineering	tatyana.plaksina@ucalgary.ca	https://schulich.ucalgary.ca/contacts/tatyana-plaksina	403.220.5652	EN D204E
+78	Sathish	Ponnurangam	Assistant Professor	chemical-and-petroleum-engineering	sathish.ponnurangam@ucalgary.ca	https://schulich.ucalgary.ca/contacts/sathish-ponnurangam	403.210.7342	EN B204L
+79	Kristina	Diane Rinker	Associate Professor	chemical-and-petroleum-engineering	kdrinker@ucalgary.ca	https://schulich.ucalgary.ca/contacts/kristina-diane-rinker	403.210.9733	CCIT 122
+80	Edward	Roberts	Professor, Associate Head of Research	chemical-and-petroleum-engineering	edward.roberts@ucalgary.ca	https://schulich.ucalgary.ca/contacts/edward-roberts	403.220.4466	CCIT 212
+81	Hemanta	Sarma	Professor 	chemical-and-petroleum-engineering	hemanta.sarma@ucalgary.ca	https://schulich.ucalgary.ca/contacts/hemanta-sarma	403.220.3065	EEEL 451B
+82	Arindom	Sen	Professor, Department Head	chemical-and-petroleum-engineering	asen@ucalgary.ca	https://schulich.ucalgary.ca/contacts/arindom-sen	403.220.5750	EN B202A
+83	Roman	Shor	Assistant Professor, Associate Head (Undergraduate Studies)	chemical-and-petroleum-engineering	roman.shor@ucalgary.ca	https://schulich.ucalgary.ca/contacts/roman-shor	403.210.7634	EN B204K
+84	Hector	Siegler	Assistant Professor 	chemical-and-petroleum-engineering	h.siegler@ucalgary.ca	https://schulich.ucalgary.ca/contacts/hector-siegler	403.220.8804	EN D204
+85	Hua	Song	Associate Professor	chemical-and-petroleum-engineering	sonh@ucalgary.ca	https://schulich.ucalgary.ca/contacts/hua-song	403.220.3792	EEL 457B
+86	Kazi	Sumon	Instructor 	chemical-and-petroleum-engineering	kazi.sumon@ucalgary.ca	https://schulich.ucalgary.ca/contacts/kazi-sumon	403.220.6343	EN D204D
+87	Uttandaraman	(U.T.) Sundararaj	[]	chemical-and-petroleum-engineering	u.sundararaj@ucalgary.ca	https://schulich.ucalgary.ca/contacts/uttandaraman-ut-sundararaj	403.210.6549	CCIT 320
+88	Milana	Trifkovic	Associate Professor	chemical-and-petroleum-engineering	mtrifkov@ucalgary.ca	https://schulich.ucalgary.ca/contacts/milana-trifkovic	403.220.8779	CCIT 318
+89	Harvey	Yarranton	Professor	chemical-and-petroleum-engineering	hyarrant@ucalgary.ca	https://schulich.ucalgary.ca/contacts/harvey-yarranton	403.220.6529	EEEL 451A
+90	Gopal	Achari	[]	civil-engineering	gachari@ucalgary.ca	https://schulich.ucalgary.ca/contacts/gopal-achari	403.220.6599	EN C101
+91	Kerry	Black	Assistant Professor	civil-engineering	kerry.black@ucalgary.ca	https://schulich.ucalgary.cahttps://schulich.ucalgary.ca/contacts/kerry-black		
+92	Angus	Chu	Professor	civil-engineering	achu@ucalgary.ca	https://schulich.ucalgary.ca/contacts/angus-chu	403.220.8987	EN F214
+93	Markus	Dann	Assistant Professor, Associate Head (Graduate Studies)	civil-engineering	mrdann@ucalgary.ca	https://schulich.ucalgary.ca/contacts/markus-dann	403.220.5328	EN F256
+94	Alexandre	De Barros	Professor	civil-engineering	debarros@ucalgary.ca	https://schulich.ucalgary.ca/contacts/alex-de-barros	403.220.6713	EN F250
+95	Elena	Di Martino	Associate Professor, Director (CBRE)	civil-engineering	edimarti@ucalgary.ca	https://schulich.ucalgary.ca/contacts/elena-di-martino	403.220.4442	EN C232
+96	Neil	Duncan	Professor, Associate Head (Undergraduate Studies)	civil-engineering	duncan@ucalgary.ca	https://schulich.ucalgary.ca/contacts/neil-duncan	403.220.8553	EN F210
+97	Mamdouh	El-Badry	Professor	civil-engineering	melbadry@ucalgary.ca	https://schulich.ucalgary.ca/contacts/mamdouh-el-badry	403.220.5819	EN F246
+98	Raafat	El-Hacha	Professor	civil-engineering	relhacha@ucalgary.ca	https://schulich.ucalgary.ca/contacts/raafat-el-hacha	403.220.4817	EN F204
+99	Jocelyn	Hayley	Professor, Department Head	civil-engineering	jhayley@ucalgary.ca	https://schulich.ucalgary.ca/contacts/jocelyn-hayley	403.220.2549	EN F202
+100	Jianxun	(Jennifer) He	[]	civil-engineering	jianhe@ucalgary.ca	https://schulich.ucalgary.ca/contacts/jianxun-jennifer-he	403.220.4112	EN F252
+101	Patrick	Hettiaratchi	Professor, Associate Head (Research)	civil-engineering	jhettiar@ucalgary.ca	https://schulich.ucalgary.ca/contacts/joseph-patrick-hettiaratchi	403.220.5503	EN F260
+102	John	Hunt	Professor	civil-engineering	jdhunt@ucalgary.ca	https://schulich.ucalgary.ca/contacts/john-hunt	403.220.8793	EN F258
+103	Martin	Jasso	Assistant Professor	civil-engineering	mjasso@ucalgary.ca	https://schulich.ucalgary.ca/contacts/martin-jasso	403.220.4734	EN F278
+104	George	Jergeas	Professor, Director (CPME)	civil-engineering	jergeas@ucalgary.ca	https://schulich.ucalgary.ca/contacts/george-jergeas	403.220.8135	EN F335
+105	Lina	Kattan	Professor	civil-engineering	lkattan@ucalgary.ca	https://schulich.ucalgary.ca/contacts/lina-kattan	403.220.3010	EN F248
+106	Rahil	Khoshnazar	Assistant Professor	civil-engineering	rahil.khoshnazar@ucalgary.ca	https://schulich.ucalgary.ca/contacts/rahil-khoshnazar	403.220.3517	EN F212
+107	Shelley	Lissel	Associate Professor	civil-engineering	sllissel@ucalgary.ca	https://schulich.ucalgary.ca/contacts/shelley-lissel	403.220.3513	EN F212
+108	Jeffrey	Priest	Professor	civil-engineering	japriest@Ucalgary.ca	https://schulich.ucalgary.ca/contacts/jeffrey-priest	403.210.9618	EN F270
+109	Janaka	Ruwanpura	Professor	civil-engineering	janaka@ucalgary.ca	https://schulich.ucalgary.ca/contacts/janaka-ruwanpura	403.220.6892	AD 100
+110	Farnaz	Sadeghpour	Associate Professor	civil-engineering	farnaz@ucalgary.ca	https://schulich.ucalgary.ca/contacts/farnaz-sadeghpour	403.210.6932	EN 335
+111	Saeid	Saidi	Assistant Professor	civil-engineering	ssaidi@ucalgary.ca	https://schulich.ucalgary.cahttps://schulich.ucalgary.ca/contacts/saeid-saidi		
+112	Nigel	Shrive	Professor	civil-engineering	ngshrive@ucalgary.ca	https://schulich.ucalgary.ca/contacts/nigel-shrive	403.220.6630	EN F206
+113	Andrew	Tay	Professor	civil-engineering	jhatay@ucalgary.ca	https://schulich.ucalgary.ca/contacts/joo-hwa-andrew-tay	403.210.3943	EN F208
+114	Richard	Wan	Professor	civil-engineering	wan@ucalgary.ca	https://schulich.ucalgary.ca/contacts/richard-wan	403.220.5504	EN F274
+115	S.	Chan Wirasinghe	Professor	civil-engineering	chan.wirasinghe@ucalgary.ca	https://schulich.ucalgary.ca/contacts/s-chan-wirasinghe	403.220.7180	EN F276
+116	Ron	Chik-Kwong Wong	Professor	civil-engineering	rckwong@ucalgary.ca	https://schulich.ucalgary.ca/contacts/ron-wong	403.220.4998	EN F272
+117	Qi	Zhou	Assistant Professor	civil-engineering	qi.zhou1@ucalgary.ca	https://schulich.ucalgary.ca/contacts/qi-zhou	403.220.5505	EN F254
+118	Luc	Bauwens	Professor	mechanical-and-manufacturing-engineering	bauwens@ucalgary.ca	https://schulich.ucalgary.ca/contacts/luc-bauwens	403.220.5792	MEB 513
+119	Robert	Brennan	Professor, Department Head	mechanical-and-manufacturing-engineering	rbrennan@ucalgary.ca	https://schulich.ucalgary.ca/contacts/robert-brennan	403.220.5798	MEB 502
+120	Roes	(Arief) Budiman	[]	mechanical-and-manufacturing-engineering	rbudiman@ucalgary.ca	https://schulich.ucalgary.ca/contacts/roes-arief-budiman	403.220.6171	MEB 412
+121	Frank	Cheng	Professor	mechanical-and-manufacturing-engineering	fcheng@ucalgary.ca	https://schulich.ucalgary.ca/contacts/frank-cheng	403.220.3693	MEB 320
+122	Ke	Du	Associate Professor	mechanical-and-manufacturing-engineering	kddu@ucalgary.ca	https://schulich.ucalgary.ca/contacts/ke-du	403.220.7883	MEB 409
+123	Philip	Egberts	Associate Professor	mechanical-and-manufacturing-engineering	philip.egberts@ucalgary.ca	https://schulich.ucalgary.ca/contacts/philip-egberts	403.220.7678	MEB 517
+124	Marjan	Eggermont	Teaching Professor, Associate Director (Undergraduate) CBRE	mechanical-and-manufacturing-engineering	meggermo@ucalgary.ca	https://schulich.ucalgary.ca/contacts/marjan-eggermont		MEB 515
+125	Silvanus	Theodore Enns	Associate Professor	mechanical-and-manufacturing-engineering	enns@ucalgary.ca	https://schulich.ucalgary.ca/contacts/silvanus-theodore-enns	403.220.5802	MEB 317
+126	Marcelo	Epstein	Professor	mechanical-and-manufacturing-engineering	mepstein@ucalgary.ca	https://schulich.ucalgary.ca/contacts/marcelo-epstein	403.220.5791	MEB 403
+127	Salvatore	Federico	Professor	mechanical-and-manufacturing-engineering	salvatore.federico@ucalgary.ca	https://schulich.ucalgary.ca/contacts/salvatore-federico	403.220.5790	MEB 406
+128	Ahmad	Ghasemloonia	Instructor	mechanical-and-manufacturing-engineering	ahmad.ghasemloonia@ucalgary.ca	https://schulich.ucalgary.ca/contacts/ahmad-ghasemloonia	403.220.5772	MEB 421
+129	Peter	Goldsmith	Associate Professor, Associate Head (Undergraduate Studies)	mechanical-and-manufacturing-engineering	peter.goldsmith@ucalgary.ca	https://schulich.ucalgary.ca/contacts/peter-goldsmith	403.220.7779	
+130	Ron	Hugo	Professor, Director (PEC)	mechanical-and-manufacturing-engineering	hugo@ucalgary.ca	https://schulich.ucalgary.ca/contacts/ron-hugo	403.220.2283	MEB 309
+131	Craig	Johansen	Associate Professor	mechanical-and-manufacturing-engineering	johansen@ucalgary.ca	https://schulich.ucalgary.ca/contacts/craig-johansen	403.220.7421	MEB 408
+132	Keekyoung	Kim	Assistant Professor	mechanical-and-manufacturing-engineering	keekyoung.kim@ucalgary.ca	https://schulich.ucalgary.cahttps://schulich.ucalgary.ca/contacts/keekyoung-kim		
+133	Seonghwan	(Sam) Kim	[]	mechanical-and-manufacturing-engineering	sskim@ucalgary.ca	https://schulich.ucalgary.ca/contacts/seonghwan-sam-kim	403.220.6624	MEB 419
+134	Artem	Korobenko	Assistant Professor	mechanical-and-manufacturing-engineering	artem.korobenko@ucalgary.ca	https://schulich.ucalgary.ca/contacts/artem-korobenko	403.220.4144	MEB 310
+135	Daniel	Yu-Hing Kwok	Associate Professor	mechanical-and-manufacturing-engineering	kwokd@ucalgary.ca	https://schulich.ucalgary.ca/contacts/daniel-yu-hing-kwok	403.210.8428	MEB 321
+136	Jihyun	Lee	Assistant Professor	mechanical-and-manufacturing-engineering	jihyun.lee@ucalgary.ca	https://schulich.ucalgary.ca/contacts/jihyun-lee	403.220.6948	MEB 319
+137	Leping	Li	Associate Professor	mechanical-and-manufacturing-engineering	leping.li@ucalgary.ca	https://schulich.ucalgary.ca/contacts/leping-li	403.210.7537	MEB 422
+138	Simon	Li	Associate Professor	mechanical-and-manufacturing-engineering	simoli@ucalgary.ca	https://schulich.ucalgary.ca/contacts/simon-li	403.220.5599	MEB 222
+139	Robert	Martinuzzi	Professor, Associate Head (Research)	mechanical-and-manufacturing-engineering	rmartinu@ucalgary.ca	https://schulich.ucalgary.ca/contacts/robert-martinuzzi	403.220.6627	MEB 212
+140	Abdulmajeed	Mohamad	Professor	mechanical-and-manufacturing-engineering	mohamad@ucalgary.ca	https://schulich.ucalgary.ca/contacts/abdulmajeed-mohamad	403.220.2781	MEB 407
+141	Christopher	Morton	Assistant Professor, Associate Head (Graduate Studies)	mechanical-and-manufacturing-engineering	chris.morton@ucalgary.ca	https://schulich.ucalgary.ca/contacts/christopher-morton	403.220.3690	MEB 215
+142	Simon	Park	Professor	mechanical-and-manufacturing-engineering	sipark@ucalgary.ca	https://schulich.ucalgary.ca/contacts/simon-park	403.220.6959	MEB 525
+143	Jeff	Pieper	Associate Professor	mechanical-and-manufacturing-engineering	pieper@ucalgary.ca	https://schulich.ucalgary.ca/contacts/jeff-pieper	403.220.5776	MEB 521
+144	Alejandro	Ramirez-Serrano	Professor	mechanical-and-manufacturing-engineering	aramirez@ucalgary.ca	https://schulich.ucalgary.ca/contacts/alejandro-ramirez-serrano	403.220.3632	MEB 523
+145	Paul	Rogers	Associate Professor	mechanical-and-manufacturing-engineering	rogers@ucalgary.ca	https://schulich.ucalgary.ca/contacts/paul-rogers	403.220.8574	MEB 404
+146	Janet	Lenore Ronsky	Professor	mechanical-and-manufacturing-engineering	jlronsky@ucalgary.ca	https://schulich.ucalgary.ca/contacts/janet-lenore-ronsky	403.220.8134	MEB 512
+147	Amir	Sanati Nezhad	Assistant Professor	mechanical-and-manufacturing-engineering	amir.sanatinezhad@ucalgary.ca	https://schulich.ucalgary.ca/contacts/amir-sanati-nezhad	403.220.7708	MEB 214
+148	Meera	Singh	Senior Instructor	mechanical-and-manufacturing-engineering	meera.singh@ucalgary.ca	https://schulich.ucalgary.ca/contacts/meera-singh	403.220.4173	MEB 411
+149	Les	Jozef Sudak	Professor	mechanical-and-manufacturing-engineering	lsudak@ucalgary.ca	https://schulich.ucalgary.ca/contacts/les-jozef-sudak	403.220.5779	MEB 520
+150	Qiao	Sun	[]	mechanical-and-manufacturing-engineering	qsun@ucalgary.ca	https://schulich.ucalgary.ca/contacts/qiao-sun	403.220.4141	EN C101
+151	Yiliu	(Paul) Tu	[]	mechanical-and-manufacturing-engineering	paultu@ucalgary.ca	https://schulich.ucalgary.ca/contacts/yiliu-paul-tu	403.220.4142	MEB 312
+152	Joanna	Wong	Assistant Professor	mechanical-and-manufacturing-engineering	wong.j@ucalgary.ca	https://schulich.ucalgary.ca/contacts/joanna-wong	403.220.5918	MEB 220
+153	David	Wood	Professor	mechanical-and-manufacturing-engineering	dhwood@ucalgary.ca	https://schulich.ucalgary.ca/contacts/david-wood	403.220.3637	MEB 211
+154	Deyi	Xue	Professor	mechanical-and-manufacturing-engineering	dxue@ucalgary.ca	https://schulich.ucalgary.ca/contacts/deyi-xue	403.220.4168	MEB 318
+155	Paul	Ziade	[]	mechanical-and-manufacturing-engineering	paul.ziade@ucalgary.ca	https://schulich.ucalgary.ca/contacts/paul-ziade	403.220.8976	MEB 224
+156	Michael	Barry	Professor	geomatics	mbarry@ucalgary.ca	https://schulich.ucalgary.ca/contacts/michael-barry	403.220.5826	EN E228F
+157	Alexander	Bruton	Teaching Professor	geomatics	alexander.bruton@ucalgary.ca	https://schulich.ucalgary.ca/contacts/alex-bruton		ICT 248
+158	Elizabeth	Cannon	Professor, President Emeritus (UCalgary)	geomatics	cannon@ucalgary.ca			
+159	Michael	Collins	Professor	geomatics	mjcollin@ucalgary.ca	https://schulich.ucalgary.ca/contacts/michael-collins	403.220.7534	
+160	Ivan	Detchev	Instructor	geomatics	i.detchev@ucalgary.ca	https://schulich.ucalgary.ca/contacts/ivan-detchev	403.220.4978	EN E229A
+161	Naser	El-Sheimy	Professor	geomatics	elsheimy@ucalgary.ca	https://schulich.ucalgary.ca/contacts/naser-el-sheimy	403.220.7587	
+162	Yang	Gao	Professor	geomatics	ygao@ucalgary.ca	https://schulich.ucalgary.ca/contacts/yang-gao		
+163	Quazi	Hassan	Professor	geomatics	qhassan@ucalgary.ca	https://schulich.ucalgary.ca/contacts/quazi-hassan	403.210.9494	CCIT 310
+164	Jeong	Woo Kim	Professor	geomatics	jw.kim@ucalgary.ca	https://schulich.ucalgary.ca/contacts/jeong-woo-kim	403.220.4858	EN A229H
+165	Steve	Liang	Associate Professor	geomatics	steve.liang@ucalgary.ca	https://schulich.ucalgary.ca/contacts/steve-liang	403.220.4703	CCIT 363
+166	Derek	Lichti	Professor	geomatics	ddlichti@ucalgary.ca	https://schulich.ucalgary.ca/contacts/derek-lichti	403.210.9495	CCIT 304
+167	Elena	Rangelova	Instructor, Associate Head (Undergraduate Studies)	geomatics	evrangel@ucalgary.ca	https://schulich.ucalgary.ca/contacts/elena-rangelova	403.220.2157	
+168	Mozhdeh	Shahbazi	Assistant Professor	geomatics	mozhdeh.shahbazi@ucalgary.ca	https://schulich.ucalgary.ca/contacts/mozhdeh-shahbazi	403.210.7710	CCIT 312
+169	Michael	Sideris	Professor, Associate Head (Graduate Studies)	geomatics	sideris@ucalgary.ca	https://schulich.ucalgary.ca/contacts/michael-sideris	403.220.4985	EN E229G
+170	Susan	Skone	Professor, Associate VP (Research)	geomatics	shskone@ucalgary.ca			
+171	Emmanuel	Stefanakis	Professor, Department Head	geomatics	emmanuel.stefanakis@ucalgary.ca	https://schulich.ucalgary.ca/contacts/emmanuel-stefanakis	403.220.4113	ICT 236
+172	Xin	Wang	Professor	geomatics	xcwang@ucalgary.ca	https://schulich.ucalgary.ca/contacts/xin-wang	403.220.3355	
+173	Ruisheng	Wang	Associate Professor	geomatics	ruiswang@ucalgary.ca	https://schulich.ucalgary.ca/contacts/ruisheng-wang	403.210.9509	EN E227E
