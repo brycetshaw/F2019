@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ComplexityAnalysis:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ComplexityAnalysis_jar</output-path>
+    <root id="archive" name="ComplexityAnalysis.jar">
+      <element id="module-output" name="ComplexityAnalysis" />
+    </root>
+  </artifact>
+</component>

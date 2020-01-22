@@ -1,0 +1,8 @@
+//Bryce Shaw 
+//ucid 10033704
+//ENSF 593 lab part 0.1.1
+
+a) (x > 100 || x < 0 ) && x >= y
+b) x > y && x < z && (x > 10 || x >= 100)
+c) (a <= 0 || a > 90) && a == b
+d) y >= 50 && y > z && y <= x

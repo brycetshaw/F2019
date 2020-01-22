@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Oct31-MVC:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Oct31_MVC_jar</output-path>
+    <root id="archive" name="Oct31-MVC.jar">
+      <element id="module-output" name="Oct31-MVC" />
+    </root>
+  </artifact>
+</component>

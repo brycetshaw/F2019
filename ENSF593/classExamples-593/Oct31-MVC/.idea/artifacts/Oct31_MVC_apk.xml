@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="apk" name="Oct31-MVC:apk">
+    <output-path>$PROJECT_DIR$/out/artifacts/Oct31_MVC_apk</output-path>
+    <properties id="android-properties">
+      <options>
+        <option name="keyStoreUrl" value="file://" />
+      </options>
+    </properties>
+    <root id="archive" name="Oct31-MVC_apk.apk">
+      <element id="artifact" artifact-name="Oct31-MVC:jar" />
+    </root>
+  </artifact>
+</component>
